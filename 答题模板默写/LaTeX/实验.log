@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.1.29)  11 FEB 2022 09:17
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.1.29)  11 FEB 2022 09:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -523,9 +523,7 @@ Overfull \hbox (85.37549pt too wide) in paragraph at lines 1480--1491
 [][] 
  []
 
-[41] [42] [43] [44] [45] [46] [47] [48] [49]
-Missing character: There is no 橫 (U+6A6B) in font [FandolSong-Regular.otf]/OT:language=dflt;!
-[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60]
+[41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60]
 Overfull \hbox (68.21802pt too wide) in paragraph at lines 2346--2358
 [] 
  []
@@ -535,10 +533,7 @@ Overfull \hbox (89.29675pt too wide) in paragraph at lines 2374--2388
 [] 
  []
 
-[61] [62] [63]
-Missing character: There is no 岀 (U+5C80) in font [FandolSong-Regular.otf]/OT:language=dflt;!
-Missing character: There is no 髙 (U+9AD9) in font [FandolSong-Regular.otf]/OT:language=dflt;!
-[64] [65]
+[61] [62] [63] [64] [65]
 Overfull \hbox (17.5604pt too wide) in paragraph at lines 2557--2572
 [][] 
  []
@@ -558,14 +553,7 @@ Overfull \hbox (100.56114pt too wide) in paragraph at lines 2920--2931
 [][] 
  []
 
-[73] [74] [75]
-Missing character: There is no 釆 (U+91C6) in font [FandolSong-Regular.otf]/OT:language=dflt;!
-Missing character: There is no 釆 (U+91C6) in font [FandolSong-Regular.otf]/OT:language=dflt;!
-[76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87]
-Missing character: There is no 塅 (U+5845) in font [FandolSong-Regular.otf]/OT:language=dflt;!
-[88] [89] [90]
-Missing character: There is no 髙 (U+9AD9) in font [FandolSong-Regular.otf]/OT:language=dflt;!
-[91] [92] [93] [94] (./实验.aux * soulpos - computing points - it may take a few seconds *
+[73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] (./实验.aux * soulpos - computing points - it may take a few seconds *
 \openout3 = `实验.upb'.
 
  (./实验.upa))
