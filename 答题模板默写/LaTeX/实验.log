@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.1.29)  11 FEB 2022 09:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.1.29)  12 FEB 2022 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -563,10 +563,10 @@ Package rerunfilecheck Info: File `实验.out' has not changed.
 Here is how much of TeX's memory you used:
  18536 strings out of 476257
  411683 string characters out of 5816919
- 786737 words of memory out of 5000000
+ 786738 words of memory out of 5000000
  38958 multiletter control sequences out of 15000+600000
  409605 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,15n,97p,525b,719s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 实验.xdv (94 pages, 903472 bytes).
+Output written on 实验.xdv (94 pages, 903512 bytes).
