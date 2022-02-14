@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.1.29)  12 FEB 2022 16:14
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.1.29)  14 FEB 2022 17:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -548,12 +548,12 @@ Overfull \hbox (93.5751pt too wide) in paragraph at lines 2749--2760
 [][] 
  []
 
-[70] [71] [72]
-Overfull \hbox (100.56114pt too wide) in paragraph at lines 2920--2931
+[70] [71] [72] [73]
+Overfull \hbox (100.56114pt too wide) in paragraph at lines 2921--2932
 [][] 
  []
 
-[73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] (./实验.aux * soulpos - computing points - it may take a few seconds *
+[74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] (./实验.aux * soulpos - computing points - it may take a few seconds *
 \openout3 = `实验.upb'.
 
  (./实验.upa))
@@ -567,6 +567,6 @@ Here is how much of TeX's memory you used:
  38958 multiletter control sequences out of 15000+600000
  409605 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,15n,97p,525b,719s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 89i,15n,97p,525b,723s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 实验.xdv (94 pages, 903512 bytes).
+Output written on 实验.xdv (95 pages, 903952 bytes).
